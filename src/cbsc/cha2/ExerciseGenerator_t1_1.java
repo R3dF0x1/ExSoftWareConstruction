@@ -5,6 +5,7 @@ import java.util.Random;
  *针对任务1完成的代码
  *增加结果约束，单独打印结果
  *使用者读题、判断结果
+ *This is for CH2 Branch
  */
 public class ExerciseGenerator_t1_1 {	
 	public static void generateExerciseOfAdditionEquations (){
